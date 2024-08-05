@@ -1,0 +1,60 @@
+_repo: La-dama-de-las-camelias-Una-familia-corsa_74029
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dumas, Alexandre
+    aliases:
+    - fils, Alexandre Dumas
+    - Dumas, A. (Alexandre)
+    - hijo, Alejandro Dumas
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas_(fils)
+  - agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: Translations of La dame aux camélias, by Alexander Dumas (1824-1895)
+  and Les frères Corses, by Alexander Dumas (1802-1870).
+gutenberg_issued: '2024-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74029'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000208824&page=1
+pgterms:marc905: 20230530135136dumash
+pgterms:marc906: '1912'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Thiers and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (Biblioteca Nacional de España. )
+publication_note: '  $aBarcelona :$bEditorial Ramón Sopena, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Courtesans -- Fiction'
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Tuberculosis -- Patients -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'Corsica (France) -- Fiction'
+- !lcsh 'French fiction -- Translations into Spanish'
+- !lcc 'PQ'
+- GITenberg
+title: La dama de las camelias; Una familia corsa
+url: http://www.gutenberg.org/ebooks/74029
